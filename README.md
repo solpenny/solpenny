@@ -1,7 +1,7 @@
 # 👋 Welcome to the SolPenny Ecosystem!
 
 <div align="center">
-  <img src="[https://solpenny.xyz/assets/icon-512x512.png](https://solpenny.xyz/assets/icon-512x512.png)" alt="SolPenny Logo" width="200"/>
+  <img src="https://solpenny.xyz/assets/icon-512x512.png" alt="SolPenny Logo" width="160"/>
   <h3>The Cheapest & Fastest Solana Token Launchpad</h3>
   <p>Launch your SPL token starting from only <b>0.05 SOL</b></p>
   
@@ -15,20 +15,20 @@
 ### 🚀 What is SolPenny?
 SolPenny is a professional, no-code deployment suite for the Solana blockchain. We've optimized every step to bring you the lowest fees in the market without compromising on security.
 
-- **💎 Unbeatable Price:** Starting from 0.05 SOL fee.
-- **🛡️ Full Trust:** One-click Revoke Mint & Freeze authorities.
-- **⚡ High Speed:** Metadata and Minting in under 3 minutes.
-- **🎨 Customization:** Full support for Metaplex metadata standards.
+* **💎 Unbeatable Price:** Starting from 0.05 SOL fee.
+* **🛡️ Full Trust:** One-click Revoke Mint & Freeze authorities.
+* **⚡ High Speed:** Metadata and Minting in under 3 minutes.
+* **🎨 Customization:** Full support for Metaplex metadata standards.
 
 ### 🛠 My Current Focus
-- [x] Solana SPL Token Creator
-- [ ] BSC Token Minter (Coming Soon)
-- [ ] Ethereum ERC-20 Support (In Development)
+- [x] **Solana SPL Token Creator** (Live)
+- [ ] **BSC Token Minter** (Coming Soon)
+- [ ] **Ethereum ERC-20 Support** (In Development)
 
 ### 🔗 Connect with the Project
-- **Website:** [solpenny.xyz](https://solpenny.xyz)
-- **Twitter:** [@solpennyxyz](https://x.com/solpennyxyz)
-- **Telegram:** [Check our status](https://t.me/solpennyxyz)
+* **Website:** [solpenny.xyz](https://solpenny.xyz)
+* **Twitter:** [@solpennyxyz](https://x.com/solpennyxyz)
+* **Telegram:** [Join Community](https://t.me/solpennyxyz)
 
 ---
 <p align="center">
